@@ -1,0 +1,1 @@
+j'ai simplement et betement remplace les voyelles a l'aide de la fonction replace que j'ai repete autant de fois
