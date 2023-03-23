@@ -1,0 +1,1 @@
+pour cette etape, j'ai utilise la methode heron pour resoudre le probleme demander comme on avait deja les cotes, il ne restait qu'a trouver le perimetre. Afin, d'eviter toute erreur au niveau de l'air, j'ai declare une premiere fonction qui verifie si les valeurs entrees ne sont pas negative si c'est le cas, ca renvoit directement false 

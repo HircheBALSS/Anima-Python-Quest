@@ -1,0 +1,3 @@
+# Groupe de baland_h 1001262
+
+j'ai initialise une variable vide qui contiendra les chiffres de y. les valeurs de num je les ai transformees en chaine de caractere par la fonction for qui parcourt chaque chiffre ensuite, j'ai calcule le carre de chaque nombre qui est d'abord converti en entier. J'ai utilise l'operateur += pour ajouter chaque chiffre de y dans la chaine de caractere Carre tout en convertissant les chiffre en chaine de caractere que j'ai ensuite return en int 
