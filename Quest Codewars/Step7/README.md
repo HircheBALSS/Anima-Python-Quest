@@ -1,0 +1,3 @@
+"in_asc_order" prend en entrée un tableau "arr" et retourne "True" si les éléments de ce tableau sont ordonnés en ordre croissant, ou "False" sinon.
+
+On parcourt le tableau "arr" en utilisant une boucle "for" qui va de 0 à la longueur du tableau moins 1. À chaque itération, la fonction compare l'élément actuel du tableau avec l'élément suivant. Si l'élément actuel est supérieur à l'élément suivant, cela signifie que le tableau n'est pas ordonné en ordre croissant et la fonction retourne "False". Si toutes les comparaisons se passent sans problème, la fonction retourne "True" à la fin de la boucle.
